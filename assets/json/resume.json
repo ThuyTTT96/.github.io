@@ -3,8 +3,8 @@
     "name": "Chloe (Thuy) Tran",
     "label": "Bioinformatics Data Analyst",
     "image": "",
-    "email": "chloe.tran@hci.utah.edu",
-    "phone": "xxx-xxx-xxx",
+    "email": "chloetran (at) hci.utah.edu",
+    "personal email": "chloetran.cs (at) gmail.com",
     "url": "https://thuyttt96.github.io",
     "summary": "I am a data analyst/software engineer/reseacher working on single cell data research area",
     "location": {
@@ -36,9 +36,8 @@
       "endDate": "2023-06-30",
       "summary": "Designed and developed an auto-monitoring dashboard for real-time Linux server health management, particularly for 4G and 5G Radio Access Network (RAN) data analysis, to improve monitoring, enhance network performance, and facilitate informed decision-making",
       "highlights": ["Dashboard report", "data visualization"]
-    }
-  ],
-  "partime-job": [
+      
+    },
     {
       "organization": "Hosei University",
       "location": "Tokyo, Japan",
@@ -52,66 +51,53 @@
     {
       "institution": "Hosei University",
       "location": "Tokyo, Japan",
-      "url": "",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "url": "https://www.hosei.ac.jp/kyoiku/daigakuin/",
+      "area": "Science and Engineering",
+      "studyType": "Master",
+      "startDate": "2019-09-05",
+      "endDate": "2021-09-15",
+      "score": "3.51",
+      "thesis": [" Bi-directional intra prediction for compressive sensing images"],
+      "courses": [""]
+    },
+    {
+      "institution": "VNU-HCM University of Information Technology",
+      "location": "Ho Chi Minh City, Vietnam",
+      "url": "https://en.uit.edu.vn",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-05",
+      "endDate": "2029-06-15",
+      "score": "3.2",
+      "thesis": ["A Computer vision-based system to find people in surveillance camera network"],
+      "courses": [""]
     }
   ],
-  "awards": [
+  "scholarship and honor": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "The 100th Year Anniversary Scholarship",
+      "date": "2020/07"
+    },
+    {
+      "title": "Japan Student Services Organization (JASSO) Scholarship",
+      "date": "2019/10"
+    },
+    {
+      "title": "Daddy Longlegs Scholarship",
+      "date": "2019/09"
+    },
+    {
+      "title": "Scholarship for high performance student",
+      "date": "2016/03-2019/09"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Google Data Analytics Certificate",
+      "date": "2021-07",
+      "issuer": "Coursera",
+      "url": "https://coursera.org/share/3a9f112896f5810b099884f6b4c47c2f",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
