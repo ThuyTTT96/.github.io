@@ -25,7 +25,7 @@
       "name": "Huntsman Cancer Institute",
       "position": "Bioinformatics Data Analyst",
       "startDate": "2024-05-20",
-      "summary": "Developed a website for visualizing the Interactive Single Cell Visual Analytics for Multiomics of scRNA-seq data. Researching on treatment prediction and drug reposition by applying single cell data techique",
+      "summary": "Developed a full-stack web application for visualizing and analyzing single-cell RNA sequencing data (scRNA-seq) using JavaScript-based technologies (React JS, Node JS, HDF5, Git, Yarn, Linux, Docker). Analyzed single-cell data to identify significant of genes  expression differences across cell types based on responses and time point; performed two-way ANOVA to find the interactive term. Implementing semi-supervised learning (Leiden) to analyze scRNA-seq data to track transcriptional state shifts, expansions, emerging, and disappearing states in patient tumor samples over time and response to therapy. ",
       "url": "https://chenlab.utah.edu/iscvam",
       "highlights": ["web development, single cell data analyst"]
     },
@@ -34,7 +34,7 @@
       "position": "Software Engineer",
       "startDate": "2022-04-01",
       "endDate": "2023-06-30",
-      "summary": "Designed and developed an auto-monitoring dashboard for real-time Linux server health management, particularly for 4G and 5G Radio Access Network (RAN) data analysis, to improve monitoring, enhance network performance, and facilitate informed decision-making",
+      "summary": "Designed and developed an auto-monitoring dashboard for real-time Linux server health management,particularly for 4G and 5G Radio Access Network (RAN) data analysis, to improve monitoring, enhance network performance, and facilitate informed decision-making. This includes: Designed an automated system to log in, collect health data, and capture resources, users, and connectivity every 4 hours. Analyzed and visualized data on a Streamlit dashboard. Summarized weekly KPIs for cluster status and connectivity, and identified anomalies for troubleshooting.",
       "highlights": ["Dashboard report", "data visualization"]
       
     },
@@ -44,7 +44,7 @@
       "position": "Research Assistant",
       "startDate": "2021-04-01",
       "endDate": "2022-03-01",
-      "summary": "Developed computer vision-based student engagement detection in online classes"
+      "summary": "Developed computer vision-based student engagement detection in online classes. Performed face detection using MTCNN and emotion detection using Mini–Xception. Analyzed the final results and created a dashboard called MOEMO to visualized the result in more interactive way. Generated after-class report that report comprehensively details students’ affective states, concentration, engagement, and intervention time for each student."
     }
   ],
   "education": [
